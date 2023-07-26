@@ -130,7 +130,7 @@ export const ChatContainer: React.FC<ChatContainerProps> = (props) => {
     socket.emit("message", {
       message,
       room,
-      appName: props.config.appName,
+      appId: props.config.appId,
       authData: props.config.authData,
     });
 

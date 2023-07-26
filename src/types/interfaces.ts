@@ -7,7 +7,7 @@ export interface ChatContainerProps {
   inputTextColor?: string;
   inputBgColor?: string;
   config: {
-    appName: string;
+    appId: string;
     authData: { location: string; auth: { key: string; token: string } };
   };
 }

@@ -23,7 +23,7 @@ ZeroState.args = {
   inputTextColor: "#C9C9C9",
   inputBgColor: "#222222",
   config: {
-    appName: "trello",
-    authData: { location: "query", auth: { key: "key", token: "token" } },
+    appId: "",
+    authData: { location: "query", auth: {} },
   },
 };
