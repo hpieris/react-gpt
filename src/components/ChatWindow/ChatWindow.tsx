@@ -13,7 +13,7 @@ export interface ChatWindowProps {
   inputBgColor?: string;
   config: {
     appId: string;
-    authData: { location: string; auth: { key: string; token: string } };
+    authData: { location: string; auth: any };
   };
 }
 
