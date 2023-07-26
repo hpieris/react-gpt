@@ -12,7 +12,7 @@ export interface ChatWindowProps {
   inputTextColor?: string;
   inputBgColor?: string;
   config: {
-    appName: string;
+    appId: string;
     authData: { location: string; auth: { key: string; token: string } };
   };
 }
@@ -24,7 +24,7 @@ export const ChatWindow: React.FC<ChatWindowProps> = (props) => {
         <ChatContainer
           config={
             props.config || {
-              appName: "trello",
+              appId: "trello",
               authData: {
                 location: "query",
                 auth: {
