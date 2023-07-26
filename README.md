@@ -50,12 +50,11 @@ Please create an app specification on www.xprompt.ai and use the name provided i
 
 ```
 {
-  "appName": "trello.com", <- this identifies the backend app. Create an app spec on www.xprompt.ai
+  "appId": "", <- this UUID identifies the backend app. Create an app spec on www.xprompt.ai
   "authData": { <- authentication data for the backend app —- used for executing the translated REST API calls 
     "location": "query", <- where to include the auth. Options are query | header
     "auth": { <- auth object
-      "key": "key", <- name of the query param. e.g. x-api-key, token, etc.
-      "token": "token" <- value of the auth token
+      
     }
   }
 }
