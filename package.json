@@ -1,6 +1,6 @@
 {
   "name": "@xprompt.ai/react-gpt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a chat GPT like chat UX on top of any REST API",
   "repository": {
     "type": "git",

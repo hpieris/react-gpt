@@ -13,7 +13,7 @@ export interface ChatWindowProps {
   inputBgColor?: string;
   config: {
     appId: string;
-    authData: { location: string; auth: any };
+    authData: any;
   };
 }
 
@@ -28,8 +28,7 @@ export const ChatWindow: React.FC<ChatWindowProps> = (props) => {
               authData: {
                 location: "query",
                 auth: {
-                  key: "key",
-                  token: "token",
+                  token: "bearer ",
                 },
               },
             }
