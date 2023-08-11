@@ -1,13 +1,17 @@
 # 🤖 React GPT
-Create a chat GPT like chat UX on top of any REST API.
 
-React GPT is a "batteries included" approach to quickly add a chat GPT like UX to your app.
-It uses xprompt LLM to automatically translate natual language queries into REST API calls and execute them.
+⚡ Embed a GPT-powered chat UX into your product in no time
+
+💰 Building, fine-tuning, and hosting LLMs is expensive. Instead, focus on your product and drop in a chat UX.
+
+💥 Use ready-made features like multi-turn conversations, question answering, and task execution via your API.
+
+🧐 xPrompt React GPT is a drop-in chat UX for your app. It provides a fine-tuned LLM, drop-in UI component, chat server, task execution engine, and an admin panel. Your users can execute tasks through natural-language-to-API capability and ask questions. Setting up is simple. Just upload your API’s open API specification and provide a few examples using the admin panel.
 
 ## Demo 
 
 [![xPrompt Intro](https://xprompt.ai/img/demo-video-sc.png
-)](https://youtu.be/l75jiHb5mCo "xPrompt Intro")
+)](https://youtu.be/YGM3illCQaM "xPrompt Intro"){:target="_blank"}
 
 
 ## Docs
