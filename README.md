@@ -8,15 +8,17 @@
 
 🧐 xPrompt React GPT is a drop-in chat UX for your app. It provides a fine-tuned LLM, drop-in UI component, chat server, task execution engine, and an admin panel. Your users can execute tasks through natural-language-to-API capability and ask questions. Setting up is simple. Just upload your API’s open API specification and provide a few examples using the admin panel.
 
+## Docs
+
+Available at: <https://www.xprompt.ai/>
+
+
 ## Demo 
 
 [![xPrompt Intro](https://xprompt.ai/img/demo-video-sc.png
-)](https://youtu.be/YGM3illCQaM "xPrompt Intro"){:target="_blank"}
+)](https://youtu.be/YGM3illCQaM "xPrompt Intro")
 
 
-## Docs
-
-Available at: https://xprompt.ai/
 
 ## Installation
 
