@@ -1,7 +1,7 @@
 # 🤖 @xprompt.ai/react-gpt
 
 
-## Embed a GPT-powered chat UX into your product in no time
+## Embed a GPT-powered chat UX into your app
 
 
 💰 Building, fine-tuning, and hosting LLMs is expensive. Instead, focus on your product and drop in a chat UX.
