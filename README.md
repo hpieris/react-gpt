@@ -6,7 +6,8 @@ It uses xprompt LLM to automatically translate natual language queries into REST
 
 ## Demo 
 
-[![xPrompt Intro](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/l75jiHb5mCo "xPrompt Intro")
+[![xPrompt Intro](https://xprompt.ai/img/demo-video-sc.png
+)](https://youtu.be/l75jiHb5mCo "xPrompt Intro")
 
 
 ## Docs
