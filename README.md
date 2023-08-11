@@ -1,4 +1,4 @@
-# 🤖 React GPT
+# 🤖 @xprompt.ai/react-gpt
 
 ⚡ Embed a GPT-powered chat UX into your product in no time
 
