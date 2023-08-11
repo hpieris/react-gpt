@@ -1,10 +1,10 @@
 # 🤖 @xprompt.ai/react-gpt
 
-⚡ Embed a GPT-powered chat UX into your product in no time
+⚡ **Embed a GPT-powered chat UX into your product in no time**
 
-💰 Building, fine-tuning, and hosting LLMs is expensive. Instead, focus on your product and drop in a chat UX.
+💰 **Building, fine-tuning, and hosting LLMs is expensive. Instead, focus on your product and drop in a chat UX.**
 
-💥 Use ready-made features like multi-turn conversations, question answering, and task execution via your API.
+💥 **Use ready-made features like multi-turn conversations, question answering, and task execution via your API.**
 
 🧐 xPrompt React GPT is a drop-in chat UX for your app. It provides a fine-tuned LLM, drop-in UI component, chat server, task execution engine, and an admin panel. Your users can execute tasks through natural-language-to-API capability and ask questions. Setting up is simple. Just upload your API’s open API specification and provide a few examples using the admin panel.
 
